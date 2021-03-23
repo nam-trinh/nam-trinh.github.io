@@ -26,7 +26,7 @@ These are 100 to-do-before-I-die items that I've been attempting to achieve for 
 9. Become a regular reader &#10004; 
 10. Skydive &#10008;
 11. Jump off the bridge (not a suicide, just a bungee jump) &#10008;
-11. Meet Elon Musk and talk with him about the future of AI &#10008;
+12. Meet Elon Musk and talk with him about the future of AI &#10008;
 
 (To be updated)
 
