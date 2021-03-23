@@ -2,7 +2,7 @@
 title: "Generative Adversarial Network-Based Semi-supervised Learning for Pathological Speech Classification"
 collection: publications
 permalink: /publication/2021-03-23-paper-generative
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about applying generative adversarial networks in a semi-supervised learning approach'
 date: 2021-03-23
 venue: 'International Conference on Statistical Language and Speech Processing'
 paperurl: 'http://doras.dcu.ie/25067/1/SLSP2020_Nam_DOB.pdf'
