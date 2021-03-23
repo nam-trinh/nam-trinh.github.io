@@ -33,6 +33,9 @@ These are 100 to-do-before-I-die items that I've been attempting to achieve for 
 16. Tell a foreigner that "Vietnam is an amazing country" &#10004;
 17. Do charity work every month &#10004;
 18. Sing a song in front of the crowd (Well, I love singing but it doesn't mean my voice is excellent...) &#10004;
+19. Launch a start up using AI for medical applications &#10008;
+20. Know how to bake &#10004;
+21. Find the "signigicant other" &#10008;
 
 (To be updated)
 
