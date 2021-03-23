@@ -10,7 +10,7 @@ redirect_from:
 
 Hello There!!!
 
-My name is Nam. I'm a Machine Learning engineer with expertise on deep learning for speech and natural language processing. I'm currently working as a research assistant in the Insight SFI Research Centre for Data Analytics, Dublin City University where I develop machine learning models for mental healthcare.
+My name is Nam. I'm a Machine Learning engineer with expertise on deep learning for speech data and natural language processing. I'm currently working as a research assistant in the Insight SFI Research Centre for Data Analytics, Dublin City University where I develop machine learning models for improving people's mental well-being                                                                        .
 
 A few words about myself: 
 1. A "Tab", "Visual Studio Code" and "Git" person
