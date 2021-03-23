@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronics Engineering, Danang University of Science and Technology, Danang, Vietnam 2016
+* M.Sc. in Computer Applications, Dublin City University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 03/2021 - present: Research Assistant
+  * Insight SFI Centre for Data Analytics
+  * Duties included: Develop a full-stack machine learning-based pipeline for meantal health 
+  * Supervisor: Tomas Ward
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 06/2016 - 11/2019: Design Engineer
+  * eSilicon Corporation (now acquired by Synopsis)
+  * Duties included: 
+    * Built deep learning models for pathological speech classification using TensorFlow
+    * Researched solutions to the lack of labelled data in medical applications
+    * Implemented semi-supervised learning approach using generative models (GAN and VAE) to improve classification accuracy in the context of lacking labelled data  
+    * Published three research papers using CNN and GAN for the task of pathological speech classification
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * Frameworks: scikit-learn, TensorFlow, Flask
+  * Model Deployment using Amazon Web Service
+* Software Engineering
+  * Programming Languages: Python/C++
+  * Database: NoSQL with MongoDB
+* Teamwork
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
