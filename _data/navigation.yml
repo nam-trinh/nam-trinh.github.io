@@ -14,10 +14,14 @@ main:
       
   - title: "Blog Posts"
     url: /year-archive/
-  - title: "My To-do List"
-    url: /list_todo/
+
+
+
   - title: "CV"
     url: /cv/
+
+  - title: "My List 100"
+    url: /list_todo/
     
   #- title: "Guide"
   #  url: /markdown/
