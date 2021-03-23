@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronics Engineering, Danang University of Science and Technology, Danang, Vietnam 2016
+* B.S. in Electronics Engineering, Danang University of Science and Technology, Danang, Vietnam, 2016
 * M.Sc. in Computer Applications, Dublin City University, 2021
 
 Work experience
