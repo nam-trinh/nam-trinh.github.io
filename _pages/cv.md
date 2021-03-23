@@ -28,6 +28,7 @@ Work experience
     * Researched solutions to the lack of labelled data in medical applications
     * Implemented semi-supervised learning approach using generative models (GAN and VAE) to improve classification accuracy in the context of lacking labelled data  
     * Published three research papers using CNN and GAN for the task of pathological speech classification
+
 Skills
 ======
 * Machine Learning
