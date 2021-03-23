@@ -27,6 +27,12 @@ These are 100 to-do-before-I-die items that I've been attempting to achieve for 
 10. Skydive &#10008;
 11. Jump off the bridge (not a suicide, just a bungee jump) &#10008;
 12. Meet Elon Musk and talk with him about the future of AI &#10008;
+13. Eat at a world class restaurant &#10008;
+14. Visit a Disneyland park &#10008;
+15. Write a book &#10008;
+16. Tell a foreigner that "Vietnam is an amazing country" &#10004;
+17. Do charity work every month &#10004;
+18. Sing a song in front of the crowd (Well, I love singing but it doesn't mean my voice is excellent...) &#10004;
 
 (To be updated)
 
