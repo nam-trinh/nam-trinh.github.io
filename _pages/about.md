@@ -16,8 +16,8 @@ A few words about myself:
 1. A "Tab", "Visual Studio Code" and "Git" person
 2. A curious engineer
 3. A highly motivated researcher
-4. An (occassional) guitarist (well, I can play a few songs in a party if you require me ...)
-5. A bookaholic (I read books everyday so I guess the word "bookaholic" suits me)
-6. A travelholic (I've traveled to almost all over Vietnam, Japan and a few EU countries and of course, they were before the Covid-19 ...)
+4. An (occassional) guitarist 
+5. A bookaholic 
+6. A travelholic 
 
-I launch this site just to show off some of my humble knowledge in ML and technology. Hopefully I can get some feedbacks from you guys.
+I launch this site just to share some of my ML projects. Hopefully I can get some feedbacks from you guys.
