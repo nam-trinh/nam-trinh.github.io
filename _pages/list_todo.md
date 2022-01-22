@@ -35,7 +35,7 @@ These are 100 to-do-before-I-die items that I've been attempting to achieve for 
 18. Sing a song in front of the crowd  &#10004;
 19. Launch a start up using AI for medical applications &#10008;
 20. Know how to bake &#10004;
-21. Find the "signigicant other" &#10008;
+21. Find the "signigicant other" &#10004;
 
 (To be updated)
 
