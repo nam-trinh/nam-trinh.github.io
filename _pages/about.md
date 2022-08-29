@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WHO AM I?"
+title: "Nam Trinh - Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello There!!!
-
-My name is Nam. I'm a Machine Learning engineer with expertise on deep learning for speech data and natural language processing. I'm currently working as a research assistant in the Insight SFI Research Centre for Data Analytics, Dublin City University where I develop machine learning models for improving people's mental well-being                                                                        .
+My name is Nam. I consider myself as Machine Learning Engineer with 4 years of experience expertise on deep learning for speech data and natural language processing. Previously I was working as a MLE in the Insight SFI Research Centre for Data Analytics, Dublin City University where I develop machine learning models for improving people's mental well-being by developing a pipeline of speech recognition and text sentiment analysis for the task of speech emotion classification. Currently I'm working in the Huawei Ireland Research Centre as a Research Data Scientist Intern where I help Huawei build speech-related and image retrieval applications.                                                         
 
 A few words about myself: 
 1. A "Tab", "Visual Studio Code" and "Git" person
@@ -20,4 +18,5 @@ A few words about myself:
 5. A bookaholic 
 6. A travelholic 
 
-I launch this site just to share some of my ML projects. Hopefully I can get some feedbacks from you guys.
+I launch this site to share some of my ML personal projects and tutorials. 
+Should you have any feedback or comments, please reach me at trinh.hoai.nam.93(at)gmail.com
