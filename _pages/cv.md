@@ -17,7 +17,11 @@ redirect_from:
 
 # Work experience
 
--
+- 16/02/2022 - 16/12/2022: Research Data Scientist Intern - Huawei
+
+  - Duties included: Develop a full-stack machine learning-based pipeline on AWS for mental health diagnosis from speech.
+  - Supervisor: Gonzalo Fiz Pontiveros (Principal Research Scientist) and Tri Kurniawan Wijaya (AI Technical Director)
+
 - 03/2021 - 11/2021: Machine Learning Engineer - Insight SFI Centre for Data Analytics
 
   - Duties included: Develop a full-stack machine learning-based pipeline on AWS for mental health diagnosis from speech.
@@ -30,11 +34,12 @@ redirect_from:
 # Skills
 
 - Machine Learning
+  - Topics: Speech recognition, text-to-speech, large language model, EEG, MRI
   - ML Frameworks: scikit-learn, TensorFlow, PyTorch, HuggingFace
-  - Frontend: React, Streamlit
-  - Backend: FastAPI
   - Cloud: AWS, Azure, GCP
 - Software Engineering
+  - Frontend: ReactJS, Streamlit
+  - Backend: FastAPI
   - Programming Languages: Python/C++
   - Database: NoSQL with MongoDB, SQL
 
