@@ -20,12 +20,12 @@ redirect_from:
 - 16/02/2022 - 16/12/2022: Research Data Scientist Intern - Huawei
 
   - Duties included: Researched text-to-speech options for a text-to-video application, built image retrieval applications based on CLIP.
-  - Supervisor: Gonzalo Fiz Pontiveros (Principal Research Scientist) and Tri Kurniawan Wijaya (AI Technical Director)
+  - Supervisors: Gonzalo Fiz Pontiveros (Principal Research Scientist) and Tri Kurniawan Wijaya (AI Technical Director)
 
 - 03/2021 - 11/2021: Machine Learning Engineer - Insight SFI Centre for Data Analytics
 
   - Duties included: Develop a full-stack machine learning-based pipeline on AWS for mental health diagnosis from speech.
-  - Supervisor: Prof. Tomas Ward
+  - Supervisors: Prof. Tomas Ward and Dr. Gerard Derosiere
 
 - 06/2016 - 11/2019: Hardware Design Engineer - eSilicon Corporation (now acquired by Synopsis)
 
