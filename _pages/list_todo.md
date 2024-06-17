@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-These are 100 to-do-before-I-die items that I've been attempting to achieve for a long time. Several achieved, the other still in progress ...
+These are 20 to-do-before-I-die items that I've been attempting to achieve for a long time. Several achieved, the other still in progress ...
 
 &#10004; = "Achieved (or I think I achieved)"
 
